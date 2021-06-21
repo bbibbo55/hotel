@@ -1,4 +1,4 @@
-# 백신예약
+# 
 
 Winter School 2팀 Workspace입니다.
 
